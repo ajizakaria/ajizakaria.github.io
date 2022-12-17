@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Teksnologi.com</title>
+    <link href="https://ajizakaria.github.io/web/feed.xml" rel="self" />
+    <link href="https://ajizakaria.github.io/web" />
+    <updated>2022-12-18T00:02:29+07:00</updated>
+    <author>
+        <name>Aji Zakaria</name>
+    </author>
+    <id>https://ajizakaria.github.io/web</id>
+
+    <entry>
+        <title>Hello!</title>
+        <author>
+            <name>Aji Zakaria</name>
+        </author>
+        <link href="https://ajizakaria.github.io/web/hello/"/>
+        <id>https://ajizakaria.github.io/web/hello/</id>
+
+        <updated>2022-12-18T00:02:29+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Blog bisa menjadi media untuk menuangkan ide dan pikiran melalui tulisan. Blog bisa menjadi langkah awal bagi Anda yang hobi menulis. Terlihat sederhana, namun akan menjadi luar biasa ketika Anda bisa mengisinya dengan tulisan-tulisan terbaik Anda. Siapa saja bisa memiliki blog di jagat internet ini,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Blog bisa menjadi media untuk menuangkan ide dan pikiran melalui tulisan.</p>
+<p>Blog bisa menjadi langkah awal bagi Anda yang hobi menulis.</p>
+<p>Terlihat sederhana, namun akan menjadi luar biasa ketika Anda bisa mengisinya dengan tulisan-tulisan terbaik Anda.</p>
+<p>Siapa saja bisa memiliki blog di jagat internet ini, termasuk Anda.</p>
+<p>Internet adalah perpustakaan terbesar di dunia. Semua orang bisa mengakses informasi tanpa batas.</p>
+<p>Mulailah untuk bisa memanfaatkan internet, dengan berbagi informasi bermanfaat untuk menambah pengetahuan dan wawasan kita bersama.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
