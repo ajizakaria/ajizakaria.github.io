@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Teksnologi.com</title>
-    <link href="https://ajizakaria.github.io/web/feed.xml" rel="self" />
-    <link href="https://ajizakaria.github.io/web" />
+    <link href="https://ajizakaria.github.io/feed.xml" rel="self" />
+    <link href="https://ajizakaria.github.io" />
     <updated>2022-12-18T00:02:29+07:00</updated>
     <author>
         <name>Aji Zakaria</name>
     </author>
-    <id>https://ajizakaria.github.io/web</id>
+    <id>https://ajizakaria.github.io</id>
 
     <entry>
         <title>Hello!</title>
         <author>
             <name>Aji Zakaria</name>
         </author>
-        <link href="https://ajizakaria.github.io/web/hello/"/>
-        <id>https://ajizakaria.github.io/web/hello/</id>
+        <link href="https://ajizakaria.github.io/hello/"/>
+        <id>https://ajizakaria.github.io/hello/</id>
 
         <updated>2022-12-18T00:02:29+07:00</updated>
             <summary>

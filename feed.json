@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Teksnologi.com",
     "description": "",
-    "home_page_url": "https://ajizakaria.github.io/web",
-    "feed_url": "https://ajizakaria.github.io/web/feed.json",
+    "home_page_url": "https://ajizakaria.github.io",
+    "feed_url": "https://ajizakaria.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Aji Zakaria"
     },
     "items": [
         {
-            "id": "https://ajizakaria.github.io/web/hello/",
-            "url": "https://ajizakaria.github.io/web/hello/",
+            "id": "https://ajizakaria.github.io/hello/",
+            "url": "https://ajizakaria.github.io/hello/",
             "title": "Hello!",
             "summary": "Blog bisa menjadi media untuk menuangkan ide dan pikiran melalui tulisan. Blog bisa menjadi langkah awal bagi Anda yang hobi menulis. Terlihat sederhana, namun akan menjadi luar biasa ketika Anda bisa mengisinya dengan tulisan-tulisan terbaik Anda. Siapa saja bisa memiliki blog di jagat internet ini,&hellip;",
             "content_html": "<p>Blog bisa menjadi media untuk menuangkan ide dan pikiran melalui tulisan.</p>\n<p>Blog bisa menjadi langkah awal bagi Anda yang hobi menulis.</p>\n<p>Terlihat sederhana, namun akan menjadi luar biasa ketika Anda bisa mengisinya dengan tulisan-tulisan terbaik Anda.</p>\n<p>Siapa saja bisa memiliki blog di jagat internet ini, termasuk Anda.</p>\n<p>Internet adalah perpustakaan terbesar di dunia. Semua orang bisa mengakses informasi tanpa batas.</p>\n<p>Mulailah untuk bisa memanfaatkan internet, dengan berbagi informasi bermanfaat untuk menambah pengetahuan dan wawasan kita bersama.</p>",
