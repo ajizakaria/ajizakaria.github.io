@@ -3,7 +3,7 @@
     <title>Teksnologi.com</title>
     <link href="https://ajizakaria.github.io/feed.xml" rel="self" />
     <link href="https://ajizakaria.github.io" />
-    <updated>2022-12-18T00:20:23+07:00</updated>
+    <updated>2022-12-18T14:34:33+07:00</updated>
     <author>
         <name>Aji Zakaria</name>
     </author>
@@ -16,22 +16,25 @@
         </author>
         <link href="https://ajizakaria.github.io/hello/"/>
         <id>https://ajizakaria.github.io/hello/</id>
+        <media:content url="https://ajizakaria.github.io/media/posts/2/ilustrasi-mengibarkan-bendera-indonesia-2.webp" medium="image" />
 
-        <updated>2022-12-18T00:20:23+07:00</updated>
+        <updated>2022-12-18T14:34:33+07:00</updated>
             <summary>
                 <![CDATA[
-                    Blog bisa menjadi media untuk menuangkan ide dan pikiran melalui tulisan. Blog bisa menjadi langkah awal bagi Anda yang hobi menulis. Terlihat sederhana, namun akan menjadi luar biasa ketika Anda bisa mengisinya dengan tulisan-tulisan terbaik Anda. Siapa saja bisa memiliki blog di jagat internet ini,&hellip;
+                        <img src="https://ajizakaria.github.io/media/posts/2/ilustrasi-mengibarkan-bendera-indonesia-2.webp" alt="" />
+                    Blog bisa menjadi media untuk menuangkan ide dan pikiran melalui tulisan. Blog bisa menjadi langkah awal bagi Anda yang hobi&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://ajizakaria.github.io/media/posts/2/ilustrasi-mengibarkan-bendera-indonesia-2.webp" class="type:primaryImage" alt="" /></p>
                 <p>Blog bisa menjadi media untuk menuangkan ide dan pikiran melalui tulisan.</p>
 <p>Blog bisa menjadi langkah awal bagi Anda yang hobi menulis.</p>
 <p>Terlihat sederhana, namun akan menjadi luar biasa ketika Anda bisa mengisinya dengan tulisan-tulisan terbaik Anda.</p>
 <p>Siapa saja bisa memiliki blog di jagat internet ini, termasuk Anda.</p>
 <p>Internet adalah perpustakaan terbesar di dunia. Semua orang bisa mengakses informasi tanpa batas.</p>
 <p>Mulailah untuk bisa memanfaatkan internet, dengan berbagi informasi bermanfaat untuk menambah pengetahuan dan wawasan kita bersama.</p>
-<figure class="post__image"><img loading="lazy"  src="https://ajizakaria.github.io/media/posts/2/ilustrasi-mengibarkan-bendera-indonesia.webp" alt="" width="1080" height="1350" sizes="100vw" srcset="https://ajizakaria.github.io/media/posts/2/responsive/ilustrasi-mengibarkan-bendera-indonesia-xs.webp 300w ,https://ajizakaria.github.io/media/posts/2/responsive/ilustrasi-mengibarkan-bendera-indonesia-sm.webp 480w ,https://ajizakaria.github.io/media/posts/2/responsive/ilustrasi-mengibarkan-bendera-indonesia-md.webp 768w ,https://ajizakaria.github.io/media/posts/2/responsive/ilustrasi-mengibarkan-bendera-indonesia-lg.webp 1024w ,https://ajizakaria.github.io/media/posts/2/responsive/ilustrasi-mengibarkan-bendera-indonesia-xl.webp 1360w ,https://ajizakaria.github.io/media/posts/2/responsive/ilustrasi-mengibarkan-bendera-indonesia-2xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://ajizakaria.github.io/media/posts/2/ilustrasi-mengibarkan-bendera-indonesia.webp" alt="" width="1080" height="1350" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://ajizakaria.github.io/media/posts/2/responsive/ilustrasi-mengibarkan-bendera-indonesia-xs.webp 300w ,https://ajizakaria.github.io/media/posts/2/responsive/ilustrasi-mengibarkan-bendera-indonesia-sm.webp 480w ,https://ajizakaria.github.io/media/posts/2/responsive/ilustrasi-mengibarkan-bendera-indonesia-md.webp 768w"></figure>
             ]]>
         </content>
     </entry>
